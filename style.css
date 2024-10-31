@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+    width: 80%;
+    max-width: 500px;
+}
+
+#output {
+    margin-top: 20px;
+}
+
+#enhancedImage {
+    max-width: 100%;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
