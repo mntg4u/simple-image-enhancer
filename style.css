@@ -24,7 +24,7 @@ body {
     color: #ffffff;
 }
 
-/* Enhanced button styling */
+/* Enhanced button styling with slightly rounded corners */
 button {
     background-color: #6366f1;
     border: none;
@@ -32,7 +32,7 @@ button {
     padding: 10px 20px;
     margin-top: 15px;
     cursor: pointer;
-    border-radius: 8px;
+    border-radius: 8px; /* Slightly rounded corners */
     font-size: 1rem;
     transition: all 0.3s ease;
 }
