@@ -19,7 +19,7 @@ async function enhanceImage() {
         const base64Image = reader.result.split(",")[1];
 
         // Prepare the request
-        const url = 'https://apis-awesome-tofu.koyeb.app/api/remini?mode=enhance';
+        const url = 'https://balu-7hz9.onrender.com/enhance';
         const headers = {
             'Content-Type': 'application/json',
         };
